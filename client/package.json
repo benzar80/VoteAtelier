@@ -2,7 +2,7 @@
   "name": "truffle-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benzar80.github.io/Votes/",
+  "homepage": "https://benzar80.github.io/VoteAtelier/",
   "scripts": {
     "build": "webpack",
     "start": "webpack serve",
@@ -23,6 +23,7 @@
     "eslint": "^8.40.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-webpack-plugin": "^4.0.1",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.2",
     "webpack": "^5.82.0",
