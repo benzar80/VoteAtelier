@@ -4,7 +4,7 @@ Pour commencer voici quelques ressources :
 
 Lien vers le déploiement publique : https://benzar80.github.io/VoteAtelier/
 
-Lien vers la vidéo : https://we.tl/t-Vkux93LmmJ
+Lien vers la vidéo : https://we.tl/t-JoEWAiDw2m
 
 Lien vers le contrat : https://github.com/benzar80/VoteAtelier/blob/main/contracts/Voting.sol
 
