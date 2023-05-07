@@ -1,4 +1,5 @@
 Projet final - Système de vote
+
 Groupe Télécom : Lucas Delicourt, Aurélien Beaudoin (grp info), Maxence Buléon, Noah Davenel, Ervis Basha, Tom Béranger, Thomas Cazin
 
 Pour commencer voici quelques ressources :
