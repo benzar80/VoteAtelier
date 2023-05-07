@@ -1,6 +1,6 @@
 Projet final - Système de vote
 
-Ce projet consiste en la création d'un système de vote décentralisé basé sur la blockchain Ethereum. Il implémente un contrat intelligent pour gérer le processus de vote et une Dapp pour interagir avec le contrat. Le projet comprend également des tests unitaires pour le contrat intelligent et des fonctionnalités supplémentaires.
+Ce projet consiste en la création d'un système de vote décentralisé basé sur la blockchain Ethereum. Il implémente un contrat intelligent pour gérer le processus de vote et une Dapp pour interagir avec le contrat. Le projet comprend également des tests unitaires pour le contrat intelligent et des fonctionnalités supplémentaires comme par exemple la possibilité de supprimer un utilisateur.
 
 Fonctionnalités principales :
 1. Enregistrement d'une liste blanche d'électeurs
