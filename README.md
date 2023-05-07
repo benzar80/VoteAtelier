@@ -16,6 +16,25 @@ Lien vers les tests  : https://github.com/benzar80/VoteAtelier/blob/main/test/Vo
 
 Lien vers truffle-config : https://github.com/benzar80/VoteAtelier/blob/main/truffle-config.js
 
+Explication et répartition du groupe :
+Back-End (Lucas Delicourt, Aurélien Beaudoin, Maxence Buléon):
+    - Création du code contract Voting.sol
+    - Création des tests en .js
+    - Améliorations du code Voting.sol dont ajout de nouvelles fonctionnalités
+
+Front-End (Noah Davenel, Tom Béranger, Thomas Cazin, Ervis Basha):
+    - Création des fonctions pour la gestion Back-Front
+    - Code HTML dont gestion des champs/boutons en fonction de l'état du vote
+    - Code CSS
+
+Gestion des relations et du projet global (Lucas Delicourt):
+    - Utilisation de ganache
+    - Utilisation de metamask
+    - Utilisation de truffle
+    - Utilisation de Node.js
+    - Mise en place du déploiement publique
+
+
 Contexte :
 
 Ce projet consiste en la création d'un système de vote décentralisé basé sur la blockchain Ethereum. Il implémente un contrat intelligent pour gérer le processus de vote et une Dapp pour interagir avec le contrat. Le projet comprend également des tests unitaires pour le contrat intelligent et des fonctionnalités supplémentaires comme par exemple la possibilité de supprimer un utilisateur.
