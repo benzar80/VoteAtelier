@@ -18,21 +18,21 @@ Lien vers truffle-config : https://github.com/benzar80/VoteAtelier/blob/main/tru
 
 Explication et répartition du groupe :
 Back-End (Lucas Delicourt, Aurélien Beaudoin, Maxence Buléon):
-    - Création du code contract Voting.sol
-    - Création des tests en .js
-    - Améliorations du code Voting.sol dont ajout de nouvelles fonctionnalités
+    *Création du code contract Voting.sol
+    *Création des tests en .js
+    *Améliorations du code Voting.sol dont ajout de nouvelles fonctionnalités
 
 Front-End (Noah Davenel, Tom Béranger, Thomas Cazin, Ervis Basha):
-    - Création des fonctions pour la gestion Back-Front
-    - Code HTML dont gestion des champs/boutons en fonction de l'état du vote
-    - Code CSS
+    *Création des fonctions pour la gestion Back-Front
+    *Code HTML dont gestion des champs/boutons en fonction de l'état du vote
+    *Code CSS
 
 Gestion des relations et du projet global (Lucas Delicourt):
-    - Utilisation de ganache
-    - Utilisation de metamask
-    - Utilisation de truffle
-    - Utilisation de Node.js
-    - Mise en place du déploiement publique
+    *Utilisation de ganache
+    *Utilisation de metamask
+    *Utilisation de truffle
+    *Utilisation de Node.js
+    *Mise en place du déploiement publique
 
 
 Contexte :
