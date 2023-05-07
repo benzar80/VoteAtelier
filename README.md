@@ -1,5 +1,14 @@
 Projet final - Système de vote
 
+Pour commencer voici quelques ressources :
+Lien vers le déploiement publique : https://benzar80.github.io/VoteAtelier/
+Lien vers la vidéo : 
+Lien vers le contrat : https://github.com/benzar80/VoteAtelier/blob/main/contracts/Voting.sol
+Lien vers le App.jsx : https://github.com/benzar80/VoteAtelier/blob/main/client/src/App.jsx
+Lien vers le App.css : https://github.com/benzar80/VoteAtelier/blob/main/client/src/App.css
+Lien vers les tests  : https://github.com/benzar80/VoteAtelier/blob/main/test/VotingTest.js
+Lien vers truffle-config : https://github.com/benzar80/VoteAtelier/blob/main/truffle-config.js
+
 Ce projet consiste en la création d'un système de vote décentralisé basé sur la blockchain Ethereum. Il implémente un contrat intelligent pour gérer le processus de vote et une Dapp pour interagir avec le contrat. Le projet comprend également des tests unitaires pour le contrat intelligent et des fonctionnalités supplémentaires comme par exemple la possibilité de supprimer un utilisateur.
 
 Fonctionnalités principales :
